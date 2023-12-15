@@ -12,6 +12,8 @@ The repository contains:
    csv files generated for visualization
  - ### eurostat_cars_dashboard.pbix
    PowerBI dashboard
+ - ### dashboard_image.png
+   Image of the dashboard
 
 ## Data
 
@@ -21,6 +23,7 @@ Downloaded datasets:
 - Population by country between 1960 and 2022
 - GDP per capita by country between 2000 and 2022
 - Country codes
+
 Important remarks:
 - Data completeness varies - not every country has full data defined for every year - such cases were ignored
 - Some of the data is not certain - a few records were marked as 'estimated' or 'break in time series' - such cases were treated as any other
